@@ -75332,9 +75332,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>424 219 606 469 0 0 1920 1057 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>924 465 796 486 0 0 1920 1057 </string>
+	<string>924 481 958 470 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 80 613 977 0 0 1920 1057 </string>
+	<string>682 298 585 475 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>247 107 585 452 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
@@ -76645,7 +76645,7 @@
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
-			<integer>1000</integer>
+			<integer>0</integer>
 			<key>Selected Text Color</key>
 			<dict>
 				<key>Blue Component</key>
